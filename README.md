@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="http://morooo.space/front/new%20wax/imgs/logo.png" width="400"></a></p>
+<p style="background:rgba(3,3,3,0.2)" align="center"><a href="#" target="_blank"><img src="http://morooo.space/front/new%20wax/imgs/logo.png" width="400"></a></p>
 
 
 
